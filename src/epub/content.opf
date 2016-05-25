@@ -32,10 +32,20 @@
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://en.wikisource.org/wiki/Of_Consolation:_To_Marcia</dc:source>
+		<dc:source>https://en.wikisource.org/wiki/Of_Providence</dc:source>
+		<dc:source>https://en.wikisource.org/wiki/On_the_Firmness_of_the_Wise_Man</dc:source>
+		<dc:source>https://en.wikisource.org/wiki/Of_Anger</dc:source>
+		<dc:source>https://en.wikisource.org/wiki/Of_Leisure</dc:source>
+		<dc:source>https://en.wikisource.org/wiki/Of_Peace_of_Mind</dc:source>
+		<dc:source>https://en.wikisource.org/wiki/Of_Clemency</dc:source>
+		<dc:source>https://en.wikisource.org/wiki/Of_Consolation:_To_Helvia</dc:source>
+		<dc:source>https://en.wikisource.org/wiki/Of_Consolation:_To_Polybius</dc:source>
+		<dc:source>https://en.wikisource.org/wiki/Of_a_Happy_Life</dc:source>
 		<dc:source>https://archive.org/details/minordialoguesto00seneuoft</dc:source>
+		<dc:source>https://archive.org/details/lannaeussenecao00stewgoog</dc:source>
 		<meta property="se:production-notes">A large number of corrections were made to the Wikiquote source.  Items are arranged chronologically.  We chose to use the modern titles for the works instead of Stewart's titles.  "On the Shortness of Life" is a brand-new transcription of Stewart's text by Alex Cabal.</meta>
-		<meta property="se:word-count">WORDCOUNT</meta>
-		<meta property="se:reading-ease.flesch">READINGEASE</meta>
+		<meta property="se:word-count">144291</meta>
+		<meta property="se:reading-ease.flesch">51.65</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Seneca_the_Younger#Essays_and_letters</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/seneca_dialogues_aubrey-stewart</meta>
 		<dc:creator id="author">Seneca</dc:creator>
@@ -50,10 +60,10 @@
 		<meta property="display-seq" refines="#translator">1</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
-		<dc:contributor id="artist">COVERARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVERARTISTSORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">WIKILINK</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">NACOAFLINK</meta>
+		<dc:contributor id="artist">Ferdinand Georg Waldmüller</dc:contributor>
+		<meta property="file-as" refines="#artist">Waldmüller, Ferdinand Georg</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Ferdinand_Georg_Waldm%C3%BCller</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n85344924</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Wikisource</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Wikisource</meta>
@@ -71,10 +81,11 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">trc</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 	</metadata>
-	<manifest>
+		<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
 		<item href="css/local.css" id="local.css" media-type="text/css"/>
+		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
