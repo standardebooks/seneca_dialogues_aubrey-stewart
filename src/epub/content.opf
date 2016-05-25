@@ -82,6 +82,8 @@
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/on-anger.xhtml" id="on-anger.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/on-a-happy-life.xhtml" id="on-a-happy-life.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/on-benefits.xhtml" id="on-benefits.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/on-clemency.xhtml" id="on-clemency.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/on-leisure.xhtml" id="on-leisure.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/on-peace-of-mind.xhtml" id="on-peace-of-mind.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/on-providence.xhtml" id="on-providence.xhtml" media-type="application/xhtml+xml"/>
@@ -106,6 +108,8 @@
 		<itemref idref="on-providence.xhtml"/>
 		<itemref idref="on-the-firmness-of-the-wise-person.xhtml"/>
 		<itemref idref="on-a-happy-life.xhtml"/>
+		<itemref idref="on-clemency.xhtml"/>
+		<itemref idref="on-benefits.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
