@@ -33,3 +33,16 @@ abbr.name{
 [epub|type~="z3998:verse"] br{
 	display: none;
 }
+
+section > header{
+	text-align: center;
+}
+
+[epub|type~="bridgehead"]{
+	display: inline-block;
+	font-style: italic;
+	margin: 0 auto 3em auto;
+	max-width: 60%;
+	text-align: justify;
+	text-indent: 0;
+}
