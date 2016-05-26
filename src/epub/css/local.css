@@ -33,7 +33,3 @@ abbr.name{
 [epub|type~="z3998:verse"] br{
 	display: none;
 }
-
-body[epub|type~="bodymatter"] section{
-	page-break-after: always;
-}
