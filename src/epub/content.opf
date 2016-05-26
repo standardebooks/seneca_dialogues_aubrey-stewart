@@ -19,12 +19,16 @@
 		<link href="onix.xml" rel="onix-record"/>
 		<dc:title id="title">Dialogues</dc:title>
 		<meta property="file-as" refines="#title">Dailogues</meta>
-		<dc:subject id="subject-1">SUBJECT1</dc:subject>
-		<dc:subject id="subject-2">SUBJECT2</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">LOCLINK1</meta>
-		<meta property="meta-auth" refines="#subject-2">LOCLINK2</meta>
+		<dc:subject id="subject-1">Classical literature</dc:subject>
+		<dc:subject id="subject-2">Essays</dc:subject>
+		<dc:subject id="subject-3">Conduct of life</dc:subject>
+		<dc:subject id="subject-4">Benevolence</dc:subject>
+		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/3794</meta>
+		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/3794</meta>
+		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/3794</meta>
+		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/3794</meta>
 		<meta property="se:subject">Philosophy</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">Seneca's dialogues and consolations, including "On Benefits," examine living life through the lens of Stoic philosophy.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONGDESCRIPTION
@@ -41,11 +45,12 @@
 		<dc:source>https://en.wikisource.org/wiki/Of_Consolation:_To_Helvia</dc:source>
 		<dc:source>https://en.wikisource.org/wiki/Of_Consolation:_To_Polybius</dc:source>
 		<dc:source>https://en.wikisource.org/wiki/Of_a_Happy_Life</dc:source>
+		<dc:source>https://en.wikisource.org/wiki/On_Benefits</dc:source>
 		<dc:source>https://archive.org/details/minordialoguesto00seneuoft</dc:source>
 		<dc:source>https://archive.org/details/lannaeussenecao00stewgoog</dc:source>
 		<meta property="se:production-notes">A large number of corrections were made to the Wikiquote source.  Items are arranged chronologically.  We chose to use the modern titles for the works instead of Stewart's titles.  "On the Shortness of Life" is a brand-new transcription of Stewart's text by Alex Cabal.</meta>
-		<meta property="se:word-count">144291</meta>
-		<meta property="se:reading-ease.flesch">51.65</meta>
+		<meta property="se:word-count">225985</meta>
+		<meta property="se:reading-ease.flesch">52.97</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Seneca_the_Younger#Essays_and_letters</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/seneca_dialogues_aubrey-stewart</meta>
 		<dc:creator id="author">Seneca</dc:creator>
