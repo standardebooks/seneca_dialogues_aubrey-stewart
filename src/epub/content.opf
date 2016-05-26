@@ -60,6 +60,9 @@
 		<meta property="display-seq" refines="#translator">1</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
+		<dc:contributor id="annotator">J. E. M. Mayor</dc:contributor>
+		<meta property="file-as" refines="#annotator">Mayor, J. E. M.</meta>
+		<meta property="role" refines="#annotator" scheme="marc:relators">ann</meta>
 		<dc:contributor id="artist">Ferdinand Georg Waldmüller</dc:contributor>
 		<meta property="file-as" refines="#artist">Waldmüller, Ferdinand Georg</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Ferdinand_Georg_Waldm%C3%BCller</meta>
