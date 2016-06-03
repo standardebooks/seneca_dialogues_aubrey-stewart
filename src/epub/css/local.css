@@ -51,6 +51,10 @@ section > header{
 	text-indent: 0;
 }
 
+section > header > h2{
+	margin-bottom: 1em; /* smaller bridgehead margins look better here */
+}
+
 h4 + p{
 	text-indent: 0;
 }
