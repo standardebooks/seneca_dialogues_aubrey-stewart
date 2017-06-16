@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/seneca/dialogues/aubrey-stewart</dc:identifier>
 		<dc:date>2016-08-03T02:07:04Z</dc:date>
-		<meta property="dcterms:modified">2017-05-06T18:38:51Z</meta>
-		<meta property="se:revision-number">11</meta>
+		<meta property="dcterms:modified">2017-06-16T23:26:22Z</meta>
+		<meta property="se:revision-number">12</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -28,7 +28,7 @@
 		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/3794</meta>
 		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/3794</meta>
 		<meta property="se:subject">Philosophy</meta>
-		<dc:description id="description">Seneca's dialogues and consolations, including “On Benefits,” examine living life through the lens of Stoic philosophy.</dc:description>
+		<dc:description id="description">Seneca’s dialogues and consolations, including “On Benefits,” examine living life through the lens of Stoic philosophy.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Seneca the Younger was a statesman and philosopher who lived in Rome around the dawn of the Common Era.  Though he wrote a large amount of tragedies and other works, today he’s perhaps best known for his writing on Stoic philosophy and principles.&lt;/p&gt;
