@@ -3,8 +3,8 @@
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/seneca/dialogues/aubrey-stewart</dc:identifier>
 		<dc:date>2016-08-03T02:07:04Z</dc:date>
-		<meta property="dcterms:modified">2017-07-27T06:38:34Z</meta>
-		<meta property="se:revision-number">19</meta>
+		<meta property="dcterms:modified">2017-07-27T20:55:50Z</meta>
+		<meta property="se:revision-number">20</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -31,8 +31,8 @@
 		<dc:description id="description">Seneca’s dialogues and consolations, including “On Benefits,” examine living life through the lens of Stoic philosophy.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Seneca the Younger was a statesman and philosopher who lived in Rome around the dawn of the Common Era.  Though he wrote a large amount of tragedies and other works, today he’s perhaps best known for his writing on Stoic philosophy and principles.&lt;/p&gt;
-			&lt;p&gt;Seneca didn’t write books about Stoicism; rather, he composed essays and sent letters over the course of his lifetime that addressed that philosophy.  Since these essays and letters are addressed to his friends and contemporaries, they’re written in a conversational style, and thus referred to as his “Dialogues.”  Some were written to friends on the death of their loved ones, in an effort to console and comfort them.  Others were written to help friends with their character flaws, like anger.  One, “On Clemency,” was addressed to the emperor Nero, was an effort to guide Nero on the path of good statesmanship.&lt;/p&gt;
+			&lt;p&gt;Seneca the Younger was a statesman and philosopher who lived in Rome around the dawn of the Common Era. Though he wrote a large amount of tragedies and other works, today he’s perhaps best known for his writing on Stoic philosophy and principles.&lt;/p&gt;
+			&lt;p&gt;Seneca didn’t write books about Stoicism; rather, he composed essays and sent letters over the course of his lifetime that addressed that philosophy. Since these essays and letters are addressed to his friends and contemporaries, they’re written in a conversational style, and thus referred to as his “Dialogues.” Some were written to friends on the death of their loved ones, in an effort to console and comfort them. Others were written to help friends with their character flaws, like anger. One, “On Clemency,” was addressed to the emperor Nero, was an effort to guide Nero on the path of good statesmanship.&lt;/p&gt;
 			&lt;p&gt;This collection contains all of his dialogues, including the longer “On Benefits.”&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
@@ -50,7 +50,7 @@
 		<dc:source>https://en.wikisource.org/wiki/On_Benefits</dc:source>
 		<dc:source>https://archive.org/details/minordialoguesto00seneuoft</dc:source>
 		<dc:source>https://archive.org/details/lannaeussenecao00stewgoog</dc:source>
-		<meta property="se:production-notes">A huge number of corrections were made to the Wikiquote sources.  The print sources also had a large number of typos that have been corrected.  Items are arranged chronologically.  We chose to use the modern titles for the works instead of Stewart's titles.  "On the Shortness of Life" is a brand-new transcription of Stewart's text by Alex Cabal.</meta>
+		<meta property="se:production-notes">A huge number of corrections were made to the Wikiquote sources. The print sources also had a large number of typos that have been corrected. Items are arranged chronologically. We chose to use the modern titles for the works instead of Stewart's titles. "On the Shortness of Life" is a brand-new transcription of Stewart's text by Alex Cabal.</meta>
 		<meta property="se:word-count">225823</meta>
 		<meta property="se:reading-ease.flesch">52.97</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Seneca_the_Younger#Essays_and_letters</meta>
