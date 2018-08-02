@@ -1,11 +1,6 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-b{
-	font-weight: normal;
-	font-variant: small-caps;
-}
-
 span[epub|type~="subtitle"]{
 	display: block;
 	font-weight: normal;
@@ -13,10 +8,6 @@ span[epub|type~="subtitle"]{
 
 abbr.era{
 	font-variant: all-small-caps;
-}
-
-abbr.name{
-	white-space: nowrap;
 }
 
 [epub|type~="z3998:verse"] p{
@@ -38,14 +29,9 @@ section.book{
 	page-break-after: always;
 }
 
-section > header{
-	text-align: center;
-}
-
 [epub|type~="bridgehead"]{
 	display: inline-block;
 	font-style: italic;
-	margin: 0 auto 3em auto;
 	max-width: 60%;
 	text-align: justify;
 	text-indent: 0;
