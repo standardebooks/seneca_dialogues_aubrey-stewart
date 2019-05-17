@@ -26,26 +26,28 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Dialogues</dc:title>
 		<meta property="file-as" refines="#title">Dialogues</meta>
 		<dc:subject id="subject-1">Classical literature</dc:subject>
 		<dc:subject id="subject-2">Essays</dc:subject>
 		<dc:subject id="subject-3">Conduct of life</dc:subject>
 		<dc:subject id="subject-4">Benevolence</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/3794</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/3794</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/3794</meta>
-		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/3794</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh85026706</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh85044914</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh85030802</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh85013139</meta>
 		<meta property="se:subject">Philosophy</meta>
 		<dc:description id="description">Seneca’s dialogues and consolations, including “On Benefits,” examine living life through the lens of Stoic philosophy.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Seneca the Younger was a statesman and philosopher who lived in Rome around the dawn of the Common Era. Though he wrote a large amount of tragedies and other works, today he’s perhaps best known for his writing on Stoic philosophy and principles.&lt;/p&gt;
 			&lt;p&gt;Seneca didn’t write books about Stoicism; rather, he composed essays and sent letters over the course of his lifetime that addressed that philosophy. Since these essays and letters are addressed to his friends and contemporaries, they’re written in a conversational style, and thus referred to as his “Dialogues.” Some were written to friends on the death of their loved ones, in an effort to console and comfort them. Others were written to help friends with their personality flaws, like anger. One, “On Clemency,” was addressed to the emperor Nero as an effort to guide him on the path of good statesmanship.&lt;/p&gt;
 			&lt;p&gt;This collection contains all of his dialogues, including the longer “On Benefits.”&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://en.wikisource.org/wiki/Of_Consolation:_To_Marcia</dc:source>
 		<dc:source>https://en.wikisource.org/wiki/Of_Providence</dc:source>
