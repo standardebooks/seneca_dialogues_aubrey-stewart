@@ -44,7 +44,7 @@
 		<meta property="se:subject">Philosophy</meta>
 		<dc:description id="description">Seneca’s dialogues and consolations, including “On Benefits,” examine living life through the lens of Stoic philosophy.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Seneca the Younger was a statesman and philosopher who lived in Rome around the dawn of the Common Era. Though he wrote a large amount of tragedies and other works, today he’s perhaps best known for his writing on Stoic philosophy and principles.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/seneca"&gt;Seneca the Younger&lt;/a&gt; was a statesman and philosopher who lived in Rome around the dawn of the Common Era. Though he wrote a large amount of tragedies and other works, today he’s perhaps best known for his writing on Stoic philosophy and principles.&lt;/p&gt;
 			&lt;p&gt;Seneca didn’t write books about Stoicism; rather, he composed essays and sent letters over the course of his lifetime that addressed that philosophy. Since these essays and letters are addressed to his friends and contemporaries, they’re written in a conversational style, and thus referred to as his “Dialogues.” Some were written to friends on the death of their loved ones, in an effort to console and comfort them. Others were written to help friends with their personality flaws, like anger. One, “On Clemency,” was addressed to the emperor Nero as an effort to guide him on the path of good statesmanship.&lt;/p&gt;
 			&lt;p&gt;This collection contains all of his dialogues, including the longer “On Benefits.”&lt;/p&gt;
 		</meta>
