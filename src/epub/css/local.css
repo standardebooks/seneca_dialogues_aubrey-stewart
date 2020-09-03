@@ -1,11 +1,6 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-span[epub|type~="subtitle"]{
-	display: block;
-	font-weight: normal;
-}
-
 abbr.era{
 	font-variant: all-small-caps;
 }
