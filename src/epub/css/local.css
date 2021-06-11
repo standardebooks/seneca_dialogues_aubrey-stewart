@@ -1,7 +1,7 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-abbr.era{
+[epub|type~="se:era"]{
 	font-variant: all-small-caps;
 }
 
@@ -20,7 +20,9 @@ abbr.era{
 	display: none;
 }
 
-section.book{
+#on-anger > section,
+#on-benefits > section,
+#on-clemency > section{
 	break-after: page;
 }
 
