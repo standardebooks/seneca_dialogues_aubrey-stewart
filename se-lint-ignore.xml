@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="content.opf">
+		<ignore>
+			<code>t-071</code>
+			<reason>Unique case where S.E. is also the transcriber, so the sentence reads correctly.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
