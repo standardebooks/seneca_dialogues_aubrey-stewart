@@ -41,6 +41,7 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">sh85013139</meta>
 		<meta property="se:subject">Philosophy</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">Seneca’s dialogues and consolations, including “On Benefits,” examine living life through the lens of Stoic philosophy.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/seneca"&gt;Seneca the Younger&lt;/a&gt; was a statesman and philosopher who lived in Rome around the dawn of the Common Era. Though he wrote a large amount of tragedies and other works, today he’s perhaps best known for his writing on Stoic philosophy and principles.&lt;/p&gt;
