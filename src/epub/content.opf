@@ -65,7 +65,7 @@
 		<meta property="se:production-notes">A huge number of corrections were made to the Wikiquote sources. The print sources also had a large number of typos that have been corrected. Items are arranged chronologically. We chose to use the modern titles for the works instead of Stewart's titles. "On the Shortness of Life" is a brand-new transcription of Stewart's text by Alex Cabal.
 
 		A correction to the translation of "To Polybius, on Consolation" has been made in a sentence that was most likely a printer's error, resulting in a missing subclause making the sentence ungrammatical; see commit ed58377 and Github issue #2.</meta>
-		<meta property="se:word-count">225950</meta>
+		<meta property="se:word-count">225949</meta>
 		<meta property="se:reading-ease.flesch">52.87</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Seneca_the_Younger#Essays_and_letters</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/seneca_dialogues_aubrey-stewart</meta>
