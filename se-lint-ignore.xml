@@ -6,4 +6,30 @@
 			<reason>Unique case where S.E. is also the transcriber, so the sentence reads correctly.</reason>
 		</ignore>
 	</file>
+	<file path="on-a-happy-life.xhtml">
+		<ignore code="t-003">
+			<line>132</line>
+			<line>136</line>
+			<reason>Dialogue continues to next sections.</reason>
+		</ignore>
+	</file>
+	<file path="on-benefits.xhtml">
+		<ignore code="t-003">
+			<line>424</line>
+			<line>1156</line>
+			<reason>Dialogue continues to next sections.</reason>
+		</ignore>
+	</file>
+	<file path="on-clemency.xhtml">
+		<ignore code="t-003">
+			<line>67</line>
+			<reason>Dialogue continues to next sections.</reason>
+		</ignore>
+	</file>
+	<file path="to-polybius-on-consolation.xhtml">
+		<ignore code="t-003">
+			<line>66</line>
+			<reason>Dialogue continues to next sections.</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
