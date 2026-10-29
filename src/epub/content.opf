@@ -72,7 +72,7 @@
 		<link href="https://github.com/standardebooks/seneca_dialogues_aubrey-stewart" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Seneca</dc:creator>
 		<meta property="file-as" refines="#author">Seneca</meta>
-		<meta property="schema:alternateName" refines="#author">Lucius Annaeus Seneca</meta>
+		<meta property="schema:alternateName" refines="#author">Lucius Annaeus Seneca the Younger</meta>
 		<link href="https://en.wikipedia.org/wiki/Seneca_the_Younger" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79004229.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
@@ -95,7 +95,6 @@
 		<dc:contributor id="transcriber-1">Wikisource</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Wikisource</meta>
 		<link href="https://en.wikisource.org/" refines="#transcriber-1" rel="schema:url"/>
-		<link href="https://en.wikipedia.org/wiki/Wikisource" refines="#transcriber-1" rel="schema:sameAs"/>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Alex Cabal</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Cabal, Alex</meta>
