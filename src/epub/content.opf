@@ -84,7 +84,7 @@
 		<dc:contributor id="annotator">J. E. M. Mayor</dc:contributor>
 		<meta property="file-as" refines="#annotator">Mayor, J. E. M.</meta>
 		<meta property="schema:alternateName" refines="#annotator">John Eyton Bickersteth Mayor</meta>
-		<link href="https://en.wikipedia.org/wiki/John_Eyton_Bickersteth_Mayor" refines="#annotator" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/John_E._B._Mayor" refines="#annotator" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n86057292.html" refines="#annotator" rel="schema:sameAs"/>
 		<meta property="role" refines="#annotator" scheme="marc:relators">ann</meta>
 		<dc:contributor id="artist">Ferdinand Georg Waldmüller</dc:contributor>
